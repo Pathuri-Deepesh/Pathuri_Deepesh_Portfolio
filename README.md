@@ -28,21 +28,19 @@ I am passionate about technology, coding, and solving complex problems. My focus
 ---
 
 ## Mini Projects
-### BioBotanica: Medicinal Plant Detection
-- **Description:** The BioBotanica Next-Gen project is an AI-driven solution that redefines medicinal plant identification and information accessibility by employing advanced machine learning and language models. Designed to overcome the limitations of traditional plant identification methods, which are time-intensive and require expert knowledge, BioBotanica Next-Gen enables users—whether healthcare professionals, researchers, educators, or plant enthusiasts—to gain valuable botanical insights effortlessly.
-- **Technologies Used:** Streamlit, PyTorch, Torchvision, OpenAI GPT - 4o, Visual Studio Code , Gen AI .
+### SQL Injection Detection Using Machine Learning
+- **Description:** Completed a mini-project in 2024 focused on identifying SQL injection attacks using machine learning models like XGBoost, Logistic Regression, and SVM. The project enhanced detection accuracy and F1-score to improve web application security.
+- **Technologies Used:** Python, XGBoost, Scikit-learn, Logistic Regression, SVM, SQL
 - **GitHub Repository:** [BioBotanica](https://github.com/Vijisdurai/BioBotanica.git)
 
-### Real-Time Product Recommendation System
-- **Description:** A real-time, intelligent product recommendation system designed to help consumers make informed purchasing decisions by comparing live prices, product features, and expert reviews across multiple e-commerce platforms. It addresses challenges like inconsistent information, fluctuating prices, and unreliable customer reviews.
-- **Technologies Used:** NLP, API Integration, Machine Learning, Web Scraping (RapidApi).
-- **Features:** Product comparisons based on price , Personalized Recommendations and eal-Time Comparison.
+### Real-Time Predictive Emotion and Behavioral Analysis
+- **Description:** Developed a real-time model for emotion and behavioral analysis using CNN and LSTM. The system provides wellness recommendations based on live video analysis, making it ideal for healthcare and corporate wellness to support mental health through personalized insights.
+- **Technologies Used:** Python, TensorFlow, Keras, CNN, LSTM, OpenCV.
 - **GitHub Repository:** [Real-Time Product Recommendation System](https://github.com/Vijisdurai/datathon.git)
 
-### Edo Scheduler
-- **Description:** Edo Scheduler is a task scheduling web application designed for effective task management, note-taking, and habit tracking. It provides features like task prioritization, calendar views, and responsive design for enhancing productivity and organization.
-- **Technologies Used:** HTML, CSS, JavaScript, FullCalendar, LocalStorage, Bootstrap, Moment.js, FontAwesome
-- **Features:** To-do list, Notes, Habit tracker, Calendar view.
+### Video Surveillance and Tracking using Facial Recognition
+- **Description:** Participated as a team lead in the IBM Datathon Collaborative 24-hour event in 2023 and developed a project focusing on AI-powered video surveillance and tracking using facial recognition. The solution leverages advanced AI techniques to enhance security and monitoring systems in real-time.
+- **Technologies Used:** Python, OpenCV, Facial Recognition Libraries, IBM Cloud Services.
 - **GitHub Repository:** [Edo Scheduler](https://github.com/Vijisdurai/EdoScheduler.git)
 
 ---
