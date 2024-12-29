@@ -71,7 +71,7 @@ I am passionate about technology, coding, and solving complex problems. My focus
 ---
 
 ## Coding Profiles
-- [LeetCode](https://leetcode.com/u/vijishdurai006/)
+- [LeetCode](https://leetcode.com/u/deepesh_22/)
 - [HackerRank](#)
 - [CodeChef](#)
 - [GeeksforGeeks](#)
@@ -80,7 +80,7 @@ I am passionate about technology, coding, and solving complex problems. My focus
 ---
 
 ## Skills
-- **Programming Languages:** Python, Java, C, HTML, CSS
+- **Programming Languages:** Java, Python, C Programming
 - **Web Development:** HTML, CSS, JavaScript
 - **Database Management:** MySQL, MongoDB
 - **Version Control:** Git, GitHub
@@ -90,8 +90,8 @@ I am passionate about technology, coding, and solving complex problems. My focus
 
 ## Experience
 ### Web Application Developer Intern | Arjun Vision Solutions
-- **Duration:** July 2024 - August 2024
-- **Responsibilities:** Developed websites using HTML, CSS, JavaScript. Managed version control with Git and facilitated team collaboration.
+- **Duration:** June 2024 - July 2024
+- **Responsibilities:**  I learnt the basics of android development Developed basic projects.
 
 ### Volunteer Coordinator | Drestin – National Symposium
 - **Duration:** October 2024 - November 2024
