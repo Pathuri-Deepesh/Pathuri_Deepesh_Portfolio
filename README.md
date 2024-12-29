@@ -52,11 +52,13 @@ I am passionate about technology, coding, and solving complex problems. My focus
 - **[Introduction to Data Science](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/Introduction%20to%20Data%20Science.jpg)**
 - **[Getting Started with Atlas](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/Getting%20Started%20with%20MongoDB%20Atlas.pdf)**
 - **[Microsoft AWS Cloud Practitioner]**
+- **[IBM DATA & AI SKILLS](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/IBM%20Data%20%26%20AI%20Skill.png)**
 - **[History of Ramanujan](https://github.com/user-attachments/files/18270199/Certificate.for.P.DEEPESH.for._Department.of.Mathematics._.pdf)
 )**
 - **[MongoDB and the Document Model](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/MongoDB%20and%20the%20Document%20Model.pdf)**
 - **[Microsoft Office]**
 - **[Mobile App Development for Beginners](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/Android%20Application%20Development.jpg)**
+- **[IBM Z SKILLS](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/IBM%20Z%20Skill.png)**
 ---
 
 ## Accomplishments
