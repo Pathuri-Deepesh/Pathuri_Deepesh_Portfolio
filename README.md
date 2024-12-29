@@ -52,7 +52,7 @@ I am passionate about technology, coding, and solving complex problems. My focus
 - **[Introduction to Data Science]**
 - **[Getting Started with Atlas]**
 - **[Microsoft AWS Cloud Practitioner]**
-- **[History of Ramanujan]([Certificate for P.DEEPESH for _Department of Mathematics (..._.pdf](https://github.com/user-attachments/files/18270199/Certificate.for.P.DEEPESH.for._Department.of.Mathematics._.pdf)
+- **[History of Ramanujan](https://github.com/user-attachments/files/18270199/Certificate.for.P.DEEPESH.for._Department.of.Mathematics._.pdf)
 )**
 - **[MongoDB and the Document Model]**
 - **[Microsoft Office]**
