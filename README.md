@@ -31,17 +31,17 @@ I am passionate about technology, coding, and solving complex problems. My focus
 ### SQL Injection Detection Using Machine Learning
 - **Description:** Completed a mini-project in 2024 focused on identifying SQL injection attacks using machine learning models like XGBoost, Logistic Regression, and SVM. The project enhanced detection accuracy and F1-score to improve web application security.
 - **Technologies Used:** Python, XGBoost, Scikit-learn, Logistic Regression, SVM, SQL
-- **GitHub Repository:** [BioBotanica](https://github.com/Vijisdurai/BioBotanica.git)
+- **GitHub Repository:** [SQL Injection Detection Using Machine Learning](https://github.com/Thilagavathi7/Discovery-and-deterrence-of-sql-injection-attack-using-machine-learning)
 
 ### Real-Time Predictive Emotion and Behavioral Analysis
 - **Description:** Developed a real-time model for emotion and behavioral analysis using CNN and LSTM. The system provides wellness recommendations based on live video analysis, making it ideal for healthcare and corporate wellness to support mental health through personalized insights.
 - **Technologies Used:** Python, TensorFlow, Keras, CNN, LSTM, OpenCV.
-- **GitHub Repository:** [Real-Time Product Recommendation System](https://github.com/Vijisdurai/datathon.git)
+- **GitHub Repository:** [Real-Time Predictive Emotion and Behavioral Analysis](https://github.com/Jeevapriya14/A-Real-Time-Predictive-Emotion-and-Behavioral-Analysis-withWellness-Recommendations?tab=readme-ov-file)
 
 ### Video Surveillance and Tracking using Facial Recognition
 - **Description:** Participated as a team lead in the IBM Datathon Collaborative 24-hour event in 2023 and developed a project focusing on AI-powered video surveillance and tracking using facial recognition. The solution leverages advanced AI techniques to enhance security and monitoring systems in real-time.
 - **Technologies Used:** Python, OpenCV, Facial Recognition Libraries, IBM Cloud Services.
-- **GitHub Repository:** [Edo Scheduler](https://github.com/Vijisdurai/EdoScheduler.git)
+- **GitHub Repository:** [Video Surveillance and Tracking using Facial Recognition](https://github.com/Pathuri-Deepesh/Video-Surveillance-and-tracking-system-using-Facial-Recognition)
 
 ---
 
