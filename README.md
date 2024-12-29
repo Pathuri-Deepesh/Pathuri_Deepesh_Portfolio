@@ -46,11 +46,13 @@ I am passionate about technology, coding, and solving complex problems. My focus
 ---
 
 ## Certifications
-- **[MongoDB for Students](https://github.com/Vijisdurai/Vijis-Durai-R-Portfolio/blob/main/certificate/course/mongo%20db_page-0001.jpg)** (ID: MDBqgbgvg5xzj)
-
-- **[Microsoft Azure AI Associate](https://github.com/Vijisdurai/Vijis-Durai-R-Portfolio/blob/main/certificate/course/IMG-20241022-WA0215.jpg)** (ID: S1853140)
-- **[IBM Z Skills](https://github.com/Vijisdurai/Vijis-Durai-R-Portfolio/blob/main/certificate/course/IBM%20Z%20SKILLS.png)**
-
+- **[ICT Academy Learnathon Introduction of Mongo DB for students]**
+- **[Introduction to Data Science]**
+- **[Getting Started with Atlas]**
+- **[Microsoft AWS Cloud Practitioner]**
+- **[MongoDB and the Document Model]**
+- **[Microsoft Office]**
+- **[Mobile App Development - Android AppDevelopment for Beginners]**
 ---
 
 ## Accomplishments
