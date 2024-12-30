@@ -51,7 +51,7 @@ I am passionate about technology, coding, and solving complex problems. My focus
 - **[ICT Academy Learnathon Introduction of Mongo DB for students](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/MongoDB%20Basics.pdf)** (ID: MDByagxfe3euu)
 - **[Introduction to Data Science](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/Introduction%20to%20Data%20Science.jpg)** (ID: 5426690)
 - **[Getting Started with Atlas](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/Getting%20Started%20with%20MongoDB%20Atlas.pdf)** (ID: MDBd41tor3cie)
-- **[Microsoft AWS Cloud Practitioner](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/cloud%20particioner.pdf)**
+- **[Microsoft AWS Cloud Practitioner](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/cloud%20particioner.pdf)**(C.No: S24-34003)
 - **[IBM DATA & AI SKILLS](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/IBM%20Data%20%26%20AI%20Skill.png)** (ID: 60e5de63-3c6d-47ae-bf4e-76648ee3ca85)
 - **[History of Ramanujan](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/History%20of%20Ramanujan.jpg)** (ID: CDIWEG-CE000481)
 - **[MongoDB and the Document Model](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/MongoDB%20and%20the%20Document%20Model.pdf)** (ID: MDBpff6aogzao) 
@@ -70,8 +70,8 @@ I am passionate about technology, coding, and solving complex problems. My focus
 ---
 
 ## Participation
--**[IBM 2023 Datathon](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/IBM%20Z%202023%20Datathon%20Certificate.pdf)**
--**[IBM 2024 Datathon](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/IBM%20Z%202024%20Datathon%20Certificate.png)**
+- **[IBM 2023 Datathon](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/IBM%20Z%202023%20Datathon%20Certificate.pdf)**
+- **[IBM 2024 Datathon](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/IBM%20Z%202024%20Datathon%20Certificate.png)**
 
 ---
 
