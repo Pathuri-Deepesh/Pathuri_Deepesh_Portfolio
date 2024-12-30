@@ -55,7 +55,7 @@ I am passionate about technology, coding, and solving complex problems. My focus
 - **[IBM DATA & AI SKILLS](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/IBM%20Data%20%26%20AI%20Skill.png)** (ID: 60e5de63-3c6d-47ae-bf4e-76648ee3ca85)
 - **[History of Ramanujan](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/History%20of%20Ramanujan.jpg)** (ID: CDIWEG-CE000481)
 - **[MongoDB and the Document Model](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/MongoDB%20and%20the%20Document%20Model.pdf)** (ID: MDBpff6aogzao) 
-- **[Microsoft Office]**
+- **[Microsoft Office](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/MS_OFFICE.pdf)**
 - **[Android Application Development](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/Android%20Application%20Development.jpg)**  
 - **[IBM Z SKILLS](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/IBM%20Z%20Skill.png)** (ID: a0b3f90f-3443-4b80-a315-5bbfd714ec47)
 ---
@@ -70,10 +70,8 @@ I am passionate about technology, coding, and solving complex problems. My focus
 ---
 
 ## Participation
-- Participated in **Hack With Folks 2023**, showcasing innovative ideas for food reuse.
-- Contributed to the **Amazon ML Challenge 2024**, competing against 74,000+ teams.
-- Engaged in the **Cryptrix 2024 Code Hunt**, demonstrating advanced problem-solving skills.
-- Represented Saveetha Engineering College in **various coding and innovation events**.
+-**[IBM 2023 Datathon](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/IBM%20Z%202023%20Datathon%20Certificate.pdf)**
+-**[IBM 2024 Datathon](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/IBM%20Z%202024%20Datathon%20Certificate.png)**
 
 ---
 
