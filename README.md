@@ -60,15 +60,18 @@ I am passionate about technology, coding, and solving complex problems. My focus
 - **[IBM Z SKILLS](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/IBM%20Z%20Skill.png)** (ID: a0b3f90f-3443-4b80-a315-5bbfd714ec47)
 ---
 
-## Accomplishments
+## Accolades
 - 2ns Place in [Riddle SQL](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/riddle%20sql.pdf) (Saveetha Engineering College)
-- 1st Place in Carrom (TEXUS'24, SRM Institute of Science and Technology)
+- 1st Place in [Vikings Carrom]()(PINACLE'24, SRM Institute of Science and Technology)
+- 1st place in [Throwball](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/ymca_throw.pdf)(YMCA BuckBall tournament 2023 and 2024 respectively.)
 - Ranked 695th in the Amazon ML Challenge 2024 among 74,000+ teams.
+- 
 
 ---
 
 ## Participation
 - **[IBM 2023 Datathon ](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/IBM%20Z%202023%20Datathon%20Certificate.pdf) Participated in the IBM 2023 Datathon, working on the project "Video Surveillance and Tracking using Facial Recognition", which involved leveraging advanced facial recognition techniques.**
+- **[BUGSMASH'24]()(Pinnacle 2K24 , Easwari Engineering College)**
 - **[IBM 2024 Datathon ](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/IBM%20Z%202024%20Datathon%20Certificate.png) Participated in the IBM 2024 Datathon, focusing on "Real-Time Predictive Emotion and Behavioral Analysis", showcasing expertise in predictive modeling and behavioral analytics.**
 - **[TCS Codevita (2024) ](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/IBM%20Z%202023%20Datathon%20Certificate.pdf) Participated in TCS Codevita (2024), showcasing my programming and algorithmic problem-solving abilities.**
 - **[Flipkart Grid 6.0 (2024) ](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/Flipkart%20Grid%206.0%20Software%20Development%20Track.png) Participated in Flipkart Grid 6.0 (2024) in the Software Development Track, demonstrating my skills in designing innovative software solutions.**
@@ -87,7 +90,8 @@ I am passionate about technology, coding, and solving complex problems. My focus
 - **Web Development:** HTML, CSS, JavaScript
 - **Database Management:** MySQL, MongoDB
 - **Version Control:** Git, GitHub
-- **Other Skills:** Data Structures and Algorithms, OOPS, Team Collaboration, Problem-Solving
+- **Soft Skills:** Interpersonal skill, Quick Learner, Collaboration and Teamwork
+- **Core Areas:** Fundamentals of Programming, Number Theory, Logical Resoning,  OOPS, Problem-Solving
 
 ---
 
