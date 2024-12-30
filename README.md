@@ -61,26 +61,24 @@ I am passionate about technology, coding, and solving complex problems. My focus
 ---
 
 ## Accomplishments
-- 1st Place in [Code Blitz](https://github.com/Vijisdurai/Vijis-Durai-R-Portfolio/blob/main/certificate/achievements/code%20blitz.jpg) (Saveetha Engineering College)
-- 1st Place in Brand Artistry (TEXUS'24, SRM Institute of Science and Technology)
-- 3rd Place in Code Hunt (Cryptrix 2024, St. Joseph's College of Engineering)
-- Honorable Mention in Ideathon (Hack With Folks, 2023)
+- 2ns Place in [Riddle SQL](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/riddle%20sql.pdf) (Saveetha Engineering College)
+- 1st Place in Carrom (TEXUS'24, SRM Institute of Science and Technology)
 - Ranked 695th in the Amazon ML Challenge 2024 among 74,000+ teams.
 
 ---
 
 ## Participation
-- **[IBM 2023 Datathon ](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/IBM%20Z%202023%20Datathon%20Certificate.pdf)Participated in the IBM 2023 Datathon, working on the project "Video Surveillance and Tracking using Facial Recognition", which involved leveraging advanced facial recognition techniques.**
-- **[IBM 2024 Datathon ](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/IBM%20Z%202024%20Datathon%20Certificate.png)Participated in the IBM 2024 Datathon, focusing on "Real-Time Predictive Emotion and Behavioral Analysis", showcasing expertise in predictive modeling and behavioral analytics.**
-- **[TCS Codevita (2024) ](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/IBM%20Z%202023%20Datathon%20Certificate.pdf)Participated in TCS Codevita (2024), showcasing my programming and algorithmic problem-solving abilities.**
-- **[Flipkart Grid 6.0 (2024) ](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/Flipkart%20Grid%206.0%20Software%20Development%20Track.png)Participated in Flipkart Grid 6.0 (2024) in the Software Development Track, demonstrating my skills in designing innovative software solutions.**
-- **[SIH Internal Hackathon(2024) ](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/IBM%20Z%202024%20Datathon%20Certificate.png)Participated in the SIH Internal Hackathon (2024), contributing to the project "Indian Sign Language", aimed at bridging communication gaps using technology.**
-- **[Smash 2.0 (2024):](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/badmiton.pdf)Participated in the sport of badminton in the event "Smash 2.0," organized by Yi Yuva REC.**
+- **[IBM 2023 Datathon ](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/IBM%20Z%202023%20Datathon%20Certificate.pdf) Participated in the IBM 2023 Datathon, working on the project "Video Surveillance and Tracking using Facial Recognition", which involved leveraging advanced facial recognition techniques.**
+- **[IBM 2024 Datathon ](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/IBM%20Z%202024%20Datathon%20Certificate.png) Participated in the IBM 2024 Datathon, focusing on "Real-Time Predictive Emotion and Behavioral Analysis", showcasing expertise in predictive modeling and behavioral analytics.**
+- **[TCS Codevita (2024) ](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/IBM%20Z%202023%20Datathon%20Certificate.pdf) Participated in TCS Codevita (2024), showcasing my programming and algorithmic problem-solving abilities.**
+- **[Flipkart Grid 6.0 (2024) ](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/Flipkart%20Grid%206.0%20Software%20Development%20Track.png) Participated in Flipkart Grid 6.0 (2024) in the Software Development Track, demonstrating my skills in designing innovative software solutions.**
+- **[SIH Internal Hackathon(2024) ](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/IBM%20Z%202024%20Datathon%20Certificate.png) Participated in the SIH Internal Hackathon (2024), contributing to the project "Indian Sign Language", aimed at bridging communication gaps using technology.**
+- **[Smash 2.0 (2024):](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/badmiton.pdf) Participated in the sport of badminton in the event "Smash 2.0," organized by Yi Yuva REC.**
 ---
 
 ## Coding Profiles
-- **[LeetCode](https://leetcode.com/u/deepesh_22/)**
-- **[Talentely](https://lms.talentely.com/in/7112ebeb-6447-4b33-89de-14788cf453d3)Scored 1000 EIS Points**
+- **[LeetCode] (https://leetcode.com/u/deepesh_22/)**
+- **[Talentely] (https://lms.talentely.com/in/7112ebeb-6447-4b33-89de-14788cf453d3) Scored 1000 EIS Points**
 
 ---
 
@@ -94,7 +92,7 @@ I am passionate about technology, coding, and solving complex problems. My focus
 ---
 
 ## Experience
-### Web Application Developer Intern(https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/intern_Certificatee.pdf) | Arjun Vision Solutions
+### **[Web Application Developer Intern](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/intern_Certificatee.pdf) | Arjun Vision Solutions**
 - **Duration:** June 2024 - July 2024
 - **Responsibilities:**  I learnt the basics of android development Developed basic projects.
 
