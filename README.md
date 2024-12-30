@@ -70,8 +70,11 @@ I am passionate about technology, coding, and solving complex problems. My focus
 ---
 
 ## Participation
-- **[IBM 2023 Datathon](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/IBM%20Z%202023%20Datathon%20Certificate.pdf)**
-- **[IBM 2024 Datathon](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/IBM%20Z%202024%20Datathon%20Certificate.png)**
+- **[IBM 2023 Datathon](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/IBM%20Z%202023%20Datathon%20Certificate.pdf)Participated in the IBM 2023 Datathon, working on the project "Video Surveillance and Tracking using Facial Recognition", which involved leveraging advanced facial recognition techniques.**
+- **[IBM 2024 Datathon](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/IBM%20Z%202024%20Datathon%20Certificate.png)Participated in the IBM 2024 Datathon, focusing on "Real-Time Predictive Emotion and Behavioral Analysis", showcasing expertise in predictive modeling and behavioral analytics.**
+- **[TCS Codevita (2024)]Participated in TCS Codevita (2024), showcasing my programming and algorithmic problem-solving abilities.**
+- **[Flipkart Grid 6.0 (2024)](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/Flipkart%20Grid%206.0%20Software%20Development%20Track.png)Participated in Flipkart Grid 6.0 (2024) in the Software Development Track, demonstrating my skills in designing innovative software solutions.**
+- **[SIH Internal Hackathon(2024)]Participated in the SIH Internal Hackathon (2024), contributing to the project "Indian Sign Language", aimed at bridging communication gaps using technology.**
 
 ---
 
