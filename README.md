@@ -75,7 +75,7 @@ I am passionate about technology, coding, and solving complex problems. My focus
 - **[TCS Codevita (2024) ](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/IBM%20Z%202023%20Datathon%20Certificate.pdf)Participated in TCS Codevita (2024), showcasing my programming and algorithmic problem-solving abilities.**
 - **[Flipkart Grid 6.0 (2024) ](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/Flipkart%20Grid%206.0%20Software%20Development%20Track.png)Participated in Flipkart Grid 6.0 (2024) in the Software Development Track, demonstrating my skills in designing innovative software solutions.**
 - **[SIH Internal Hackathon(2024) ](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/IBM%20Z%202024%20Datathon%20Certificate.png)Participated in the SIH Internal Hackathon (2024), contributing to the project "Indian Sign Language", aimed at bridging communication gaps using technology.**
-
+- **[Smash 2.0 (2024):](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/badmiton.pdf)Participated in the sport of badminton in the event "Smash 2.0," organized by Yi Yuva REC.**
 ---
 
 ## Coding Profiles
