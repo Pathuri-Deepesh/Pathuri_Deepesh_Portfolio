@@ -79,8 +79,8 @@ I am passionate about technology, coding, and solving complex problems. My focus
 ---
 
 ## Coding Profiles
-- [LeetCode](https://leetcode.com/u/deepesh_22/)
-- [Talentely](https://lms.talentely.com/in/7112ebeb-6447-4b33-89de-14788cf453d3)
+- **[LeetCode](https://leetcode.com/u/deepesh_22/)**
+- **[Talentely](https://lms.talentely.com/in/7112ebeb-6447-4b33-89de-14788cf453d3)Scored 1000 EIS Points**
 
 ---
 
@@ -94,7 +94,7 @@ I am passionate about technology, coding, and solving complex problems. My focus
 ---
 
 ## Experience
-### Web Application Developer Intern | Arjun Vision Solutions
+### Web Application Developer Intern(https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/intern_Certificatee.pdf) | Arjun Vision Solutions
 - **Duration:** June 2024 - July 2024
 - **Responsibilities:**  I learnt the basics of android development Developed basic projects.
 
