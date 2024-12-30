@@ -102,7 +102,8 @@ I am passionate about technology, coding, and solving complex problems. My focus
 
 ### Volunteer Coordinator | Drestin – National Symposium
 - **Duration:** October 2024 - November 2024
-- **Responsibilities:** Coordinated communication and managed volunteer onboarding for a large-scale academic event.
+- **Evwnt Name:** Embrace the Unknown
+- **Responsibilities:** Volunteered for the event, assisting in the coordination and management of activities related to the theme.
 
 ---
 
