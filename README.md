@@ -47,7 +47,7 @@ I am passionate about technology, coding, and solving complex problems. My focus
 
 ## Certifications
 
-- **[Introduction to Industry 4.0 and Industrial Internet Of Things]**
+- **[Introduction to Industry 4.0 and Industrial Internet Of Things](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/Introduction%20to%20Industry%204.0%20and%20Industrial%20Internet%20of%20Things.pdf)**
 - **[ICT Academy Learnathon Introduction of Mongo DB for students](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/MongoDB%20Basics.pdf)** (ID: MDByagxfe3euu)
 - **[Introduction to Data Science](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/Introduction%20to%20Data%20Science.jpg)** (ID: 5426690)
 - **[Getting Started with Atlas](https://github.com/Pathuri-Deepesh/Pathuri_Deepesh_Portfolio/blob/main/Getting%20Started%20with%20MongoDB%20Atlas.pdf)** (ID: MDBd41tor3cie)
