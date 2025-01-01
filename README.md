@@ -1,21 +1,4 @@
 # Pathuri_Deepesh_Portfolio
-Welcome to my portfolio! I am a student from the Department of Information Technology, passionate about coding and problem-solving. This repository showcases my projects, coding skills, accomplishments, and problem-solving abilities.
-
----
-
-## Table of Contents
-1. [About Me](#about-me)
-2. [Mini Projects](#mini-projects)
-3. [Certifications](#certifications)
-4. [Accomplishments](#accomplishments)
-5. [Participations](#participation)
-6. [Coding Profiles](#coding-profiles)
-7. [Skills](#skills)
-8. [Experience](#experience)
-9. [Contact](#contact)
-
----
-
 ## About Me
 I am passionate about technology, coding, and solving complex problems. My focus areas include software development, algorithms, and data structures. I aim to enhance my skills and contribute to innovative and user-friendly technological solutions.
 
