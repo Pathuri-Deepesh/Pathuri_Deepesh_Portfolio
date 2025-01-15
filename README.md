@@ -63,7 +63,7 @@ I am passionate about technology, coding, and solving complex problems. My focus
 ---
 
 ## Coding Profiles
-- **[LeetCode](https://leetcode.com/u/deepesh_22/) Rank: 2,776,885**
+- **[LeetCode](https://leetcode.com/u/deepesh_22/) Rank: 17,86,233**
 - **[Talentely](https://lms.talentely.com/in/7112ebeb-6447-4b33-89de-14788cf453d3) Scored 1000 EIS Points**
 
 ---
